@@ -1,0 +1,1 @@
+This is project about drum kits. You can click every button to hear the sound of the instrument. Also, you can press the keyboard (the first letter of the instrument) as a shortcut to hear the sound of instrument. It performs the same animation as clicking. This project uses simple html, css and inline javascript.
